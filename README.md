@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VenkataKoti</h1>
+<h1 align="center">Hi 👋, I'm Venkata Koti</h1>
 <h3 align="center">Enthusiastic DevOps Engineer with experience in the IT industry, specializing in DevOps/Cloud domain.</h3>
 
 
