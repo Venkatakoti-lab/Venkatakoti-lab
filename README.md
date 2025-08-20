@@ -2,9 +2,8 @@
 <h3 align="center">Enthusiastic DevOps Engineer with experience in the IT industry, specializing in DevOps/Cloud domain.</h3>
 
 #  Profile Views:
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=Venkatakoti-lab&icon=0&color=0" alt="Profile Views" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=Venkatakoti-lab&color=blue&style=flat-square)
+
 
 # About Me:
 AWS Cloud, Linux, Python, CI/CD, Docker, Kubernetes, Terraform, Ansible, Scripting, Jenkins, Grafana, Prometheus, ELK
