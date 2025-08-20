@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VenkataKoti</h1>
 <h3 align="center">Enthusiastic DevOps Engineer with experience in the IT industry, specializing in DevOps/Cloud domain.</h3>
 
-#  Profile Views:
+
 ![Profile views](https://komarev.com/ghpvc/?username=Venkatakoti-lab&color=blue&style=flat-square)
 
 
