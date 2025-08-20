@@ -6,7 +6,7 @@
 
 
 
-* 💬 Ask me about AWS Cloud, Linux, Python, CI/CD, Docker, Kubernetes, Terraform, Ansible, Scripting, Jenkins, Grafana, Prometheus, ELK
+* 💬 Ask me about **AWS Cloud**, **Linux, Python**, **CI/CD, Docker, Kubernetes, Terraform, Ansible, Scripting, Jenkins, Grafana, Prometheus, ELK**
 
 
 
