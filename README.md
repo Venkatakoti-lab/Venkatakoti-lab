@@ -5,8 +5,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Venkatakoti-lab&color=blue&style=flat-square)
 
 
-# About Me:
-AWS Cloud, Linux, Python, CI/CD, Docker, Kubernetes, Terraform, Ansible, Scripting, Jenkins, Grafana, Prometheus, ELK
+
+💬 Ask me about AWS Cloud, Linux, Python, CI/CD, Docker, Kubernetes, Terraform, Ansible, Scripting, Jenkins, Grafana, Prometheus, ELK
 
 
 
