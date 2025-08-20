@@ -2,8 +2,9 @@
 <h3 align="center">Enthusiastic DevOps Engineer with experience in the IT industry, specializing in DevOps/Cloud domain.</h3>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Venkatakoti-lab&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Venkatakoti-lab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
   
 
