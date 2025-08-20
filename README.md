@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm VenkataKoti</h1>
 <h3 align="center">Enthusiastic DevOps Engineer with experience in the IT industry, specializing in DevOps/Cloud domain.</h3>
 
+#  Profile Views:
+<p align="left">
+  <img src="https://visitcount.itsvg.in/api?id=Venkatakoti-lab&icon=0&color=0" alt="Profile Views" />
+</p>
+
 # About Me:
 AWS Cloud, Linux, Python, CI/CD, Docker, Kubernetes, Terraform, Ansible, Scripting, Jenkins, Grafana, Prometheus, ELK
 
@@ -76,7 +81,4 @@ AWS Cloud, Linux, Python, CI/CD, Docker, Kubernetes, Terraform, Ansible, Scripti
 ![](https://nirzak-streak-stats.vercel.app/?user=Venkatakoti-lab&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatakoti-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-#  Profile Views:
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=Venkatakoti-lab&icon=0&color=0" alt="Profile Views" />
-</p>
+
