@@ -76,7 +76,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Venkatakoti-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Venkatakoti-lab&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
 ![](https://nirzak-streak-stats.vercel.app/?user=Venkatakoti-lab&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatakoti-lab&layout=compact&theme=dark&hide_border=false&count_private=true&cache_seconds=1800)
 
