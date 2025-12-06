@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Venkata Koti</h1>
-<h3 align="center">Enthusiastic DevOps Engineer with experience in the IT industry, specializing in DevOps/Cloud domain.</h3>
+<h3 align="center">Enthusiastic DevOps Engineer with experience in the IT industry, specializing in DevOps and Multi Cloud .</h3>
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Venkatakoti-lab&color=blue&style=flat-square)
 
 
 
-* 💬 Ask me about **AWS Cloud**, **Linux, Python**, **CI/CD, Docker, Kubernetes, Terraform, Ansible, Scripting, Jenkins, Grafana, Prometheus, ELK**
+* 💬 Ask me about **AWS Cloud** **AZURE CLOUD**, **Linux, Python**, **CI/CD, Docker, Kubernetes, Terraform, Ansible, Scripting, Jenkins, Grafana, Prometheus, ELK**
 
 
 
