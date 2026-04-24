@@ -1,84 +1,109 @@
-<h1 align="center">Hi 👋, I'm VENKAT</h1>
-<h3 align="center">Enthusiastic DevOps Engineer with experience in the IT industry, specializing in DevOps and Multi Cloud .</h3>
+<h1 align="center">👋 Hi, I'm VENKAT</h1>
 
+<h3 align="center">🚀 DevOps Engineer | Multi-Cloud Specialist | Automation Enthusiast</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=Venkatakoti-lab&color=blue&style=flat-square)
-
-
-
-* 💬 Ask me about **AWS** and **AZURE CLOUD**, **Linux, Python**, **CI/CD, Docker, Kubernetes, Terraform, Ansible, Scripting, Jenkins, Grafana, Prometheus, ELK**
-
-
-
-
-#
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AWS+%7C+Azure+%7C+GCP;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Jenkins+%7C+Ansible;Monitoring+%7C+Grafana+%7C+Prometheus;Always+Learning+New+Technologies" />
 </p>
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Venkatakoti-lab&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
-![](https://nirzak-streak-stats.vercel.app/?user=Venkatakoti-lab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatakoti-lab&layout=compact&theme=dark&hide_border=false&count_private=true&cache_seconds=1800)
+## 🌟 About Me
+- 💼 DevOps Engineer with **5+ years of experience**
+- ☁️ Skilled in **AWS, Azure, and GCP**
+- 🔁 Strong in **CI/CD, Automation, and Infrastructure as Code**
+- 📊 Experienced in **Monitoring, Logging & Observability**
+- 🛠️ Passionate about building **scalable & reliable systems**
 
+---
 
+## 🚀 Tech Stack
 
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+
+### 🔄 CI/CD & Monitoring
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic)
+
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Serverless Cross-Region Disaster Recovery
+- 🌍 Built using AWS Lambda, API Gateway, DynamoDB Global Tables
+- 🔁 High availability with cross-region failover
+- 🌐 Route 53 for traffic routing
+
+### 🔹 Auto Scaling Node.js Application
+- ⚖️ ALB + Auto Scaling Group implementation
+- 🚀 CI/CD using CodePipeline & CodeBuild
+- 📈 Improved performance and uptime
+
+### 🔹 Kubernetes Microservices Deployment
+- ☸️ Deployed using Kubernetes & Helm
+- 🔐 Implemented RBAC security
+- 📊 Monitoring using Prometheus & Grafana
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkatakoti-lab&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkatakoti-lab&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkatakoti-lab&theme=react-dark" />
+</p>
+
+---
+
+## 🏆 Achievements
+- 🏅 Hands-on experience in real-time DevOps projects
+- 📜 Strong knowledge in AWS & Cloud Architecture
+- 🔥 Preparing for DevOps & Cloud certifications
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Venkatakoti-lab&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+## 💬 Ask Me About
+💡 AWS | Azure | Docker | Kubernetes | Terraform | Jenkins | Monitoring | DevOps Practices
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: your-email@example.com
+
+---
+
+## ⚡ Fun Fact
+🚀 I automate everything that can be automated!
