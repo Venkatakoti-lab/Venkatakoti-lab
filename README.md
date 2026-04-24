@@ -1,19 +1,19 @@
 <h1 align="center">👋 Hi, I'm VENKAT</h1>
 
-<h3 align="center">🚀 DevOps Engineer | Multi-Cloud Specialist | Automation Enthusiast</h3>
+<h3 align="center">🚀 DevOps | DevSecOps Engineer | Multi-Cloud Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AWS+%7C+Azure+%7C+GCP;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Jenkins+%7C+Ansible;Monitoring+%7C+Grafana+%7C+Prometheus;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+%7C+DevSecOps+Engineer;AWS+%7C+Azure+%7C+GCP;Docker+%7C+Kubernetes+%7C+ArgoCD;CI%2FCD+%7C+GitHub+Actions+%7C+Jenkins;Monitoring+%7C+Grafana+%7C+Prometheus;Security+%7C+Trivy+%7C+SonarQube" />
 </p>
 
 ---
 
 ## 🌟 About Me
 - 💼 DevOps Engineer with **4 years of experience**
-- ☁️ Skilled in **AWS, Azure, and GCP**
-- 🔁 Strong in **CI/CD, Automation, and Infrastructure as Code**
+- 🔐 Specialized in **DevSecOps & Secure CI/CD pipelines**
+- ☁️ Skilled in **AWS, Azure, GCP**
+- 🔁 Strong in **Automation, Infrastructure as Code**
 - 📊 Experienced in **Monitoring, Logging & Observability**
-- 🛠️ Passionate about building **scalable & reliable systems**
 
 ---
 
@@ -24,17 +24,37 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
 
-### ⚙️ DevOps & Tools
+---
+
+### ⚙️ DevOps Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo)
 
-### 🔄 CI/CD & Monitoring
+---
+
+### 🔄 CI/CD Tools
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+---
+
+### 🔐 DevSecOps & Security
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk)
+
+---
+
+### 📊 Monitoring & Logging
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic)
+
+---
 
 ### 💻 Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -43,22 +63,33 @@
 
 ---
 
+## 🔐 DevSecOps Practices
+
+- 🔍 **Static Code Analysis** using SonarQube  
+- 🐳 **Container Security Scanning** using Trivy  
+- 🔐 **Dependency Scanning** using Snyk  
+- 🛡️ **Secure CI/CD pipelines** with GitHub Actions & Jenkins  
+- 📜 **Policy enforcement** using OWASP best practices  
+- 🔑 Secrets management & least privilege access  
+
+---
+
 ## 📂 Featured Projects
 
-### 🔹 Serverless Cross-Region Disaster Recovery
-- 🌍 Built using AWS Lambda, API Gateway, DynamoDB Global Tables
-- 🔁 High availability with cross-region failover
-- 🌐 Route 53 for traffic routing
+### 🔹 GitOps Deployment using ArgoCD
+- 🚀 Continuous deployment using ArgoCD
+- 🔁 Auto-sync with Git repository
+- ☸️ Kubernetes-native deployment strategy
 
-### 🔹 Auto Scaling Node.js Application
-- ⚖️ ALB + Auto Scaling Group implementation
-- 🚀 CI/CD using CodePipeline & CodeBuild
-- 📈 Improved performance and uptime
+### 🔹 Secure CI/CD Pipeline (DevSecOps)
+- 🔐 Integrated SonarQube + Trivy scanning
+- ⚙️ Built using GitHub Actions & Jenkins
+- 🚀 Automated build, test, scan, deploy
 
-### 🔹 Kubernetes Microservices Deployment
-- ☸️ Deployed using Kubernetes & Helm
-- 🔐 Implemented RBAC security
-- 📊 Monitoring using Prometheus & Grafana
+### 🔹 Serverless Cross-Region DR
+- 🌍 AWS Lambda + DynamoDB Global Tables
+- 🔁 High availability architecture
+- 🌐 Route 53 failover routing
 
 ---
 
@@ -80,9 +111,9 @@
 ---
 
 ## 🏆 Achievements
-- 🏅 Hands-on experience in real-time DevOps projects
-- 📜 Strong knowledge in AWS & Cloud Architecture
-- 🔥 Preparing for DevOps & Cloud certifications
+- 🏅 Experience in DevOps & DevSecOps projects  
+- 📜 Strong cloud architecture knowledge  
+- 🔥 Building secure and scalable systems  
 
 ---
 
@@ -95,13 +126,14 @@
 ---
 
 ## 💬 Ask Me About
-💡 AWS | Azure | Docker | Kubernetes | Terraform | Jenkins | Monitoring | DevOps Practices
+💡 DevOps | DevSecOps | AWS | Azure | Kubernetes | ArgoCD | CI/CD | Security
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 Email: venkatkanakam1@gmail.com
+
 
 ---
 
