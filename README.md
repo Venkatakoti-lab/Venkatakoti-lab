@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me
-- 💼 DevOps Engineer with **4 years of experience**
+- 💼 DevOps Engineer with **4+ years of experience**
 - 🔐 Specialized in **DevSecOps & Secure CI/CD pipelines**
 - ☁️ Skilled in **AWS, Azure, GCP**
 - 🔁 Strong in **Automation & Infrastructure as Code**
